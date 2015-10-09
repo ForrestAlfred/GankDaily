@@ -21,6 +21,6 @@ LeanCloud for store data
 2. display everyday's data
 3. favorate
 4. login
-5. more.
+5. read news inner app
 
 
